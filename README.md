@@ -38,7 +38,7 @@ An AI-powered platform that helps users:
 ---
 
 ## 🎯 Goal
-To build intelligent, scalable systems as a Software Engineer / AI Engineer.
+To build intelligent, scalable AI-driven systems and contribute as a Software Engineer / AI Engineer.
 
 ---
 
