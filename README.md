@@ -29,10 +29,12 @@ An AI-powered platform that helps users:
 ---
 
 ## 🚀 Featured Projects
-- 🔹 AI Resume Builder  
-- 🔹 Advanced Chatbot  
-- 🔹 Medi-Rate (Healthcare Price Comparison)  
 
+- 🔹 **AI Resume Builder** – AI-powered resume generation with smart suggestions and job-specific optimization  
+
+- 🔹 **Advanced Chatbot** – NLP-based chatbot capable of intelligent conversation and automated responses  
+
+- 🔹 **Medi-Rate** – Healthcare price comparison platform helping users find affordable treatments and medicines  
 ---
 
 ## 🎯 Goal
