@@ -24,6 +24,10 @@
   <a href="https://github.com/suryansh077">
     <img src="https://img.shields.io/badge/GitHub-suryansh077-181717?style=for-the-badge&logo=github"/>
   </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/suryansh077">
+    <img src="https://img.shields.io/badge/LeetCode-suryansh077-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -165,6 +169,28 @@
 
 ---
 
+## 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/suryansh077">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=suryansh077&theme=dark" alt="LeetCode Stats" height="200"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/suryansh077">
+    <img src="https://img.shields.io/badge/Profile-suryansh077-FFA116?style=flat-square&logo=leetcode&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20C++-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Topics-DP%20%7C%20Arrays%20%7C%20Trees%20%7C%20Math-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Actively%20Practicing-orange?style=flat-square"/>
+</p>
+
+**Problem-solving focus areas:**
+`Dynamic Programming` `Arrays` `Hash Table` `Tree` `Math` `String` `Sorting` `Binary Indexed Tree` `Bitmask`
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -185,6 +211,7 @@
 - 📞 **Phone:** +91-7388089077
 - 🔗 **LinkedIn:** [Suryansh Pratap Singh](https://linkedin.com/in/suryansh-pratap-singh-a5a265219)
 - 💻 **GitHub:** [suryansh077](https://github.com/suryansh077)
+- 🧩 **LeetCode:** [suryansh077](https://leetcode.com/u/suryansh077)
 - 📍 **Location:** Greater Noida, Uttar Pradesh 201310
 
 ---
